@@ -3,7 +3,9 @@
 
 # Data Analyst
 
-![Screenshot 2024-01-27 100439](https://github.com/alaukikvarun/alaukikvarun/assets/35391611/66e49839-a3b4-4f44-817c-3afea97c8ebf)
+![Screenshot 2024-02-03 103025](https://github.com/alaukikvarun/alaukikvarun/assets/35391611/55416ba3-28d0-4eff-882b-832656e5d34d)
+
+
 
 ## 📫 Contact
 
