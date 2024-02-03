@@ -1,8 +1,5 @@
 ---
 
-
-# Data Analyst
-
 ![Screenshot 2024-02-03 103025](https://github.com/alaukikvarun/alaukikvarun/assets/35391611/55416ba3-28d0-4eff-882b-832656e5d34d)
 
 
