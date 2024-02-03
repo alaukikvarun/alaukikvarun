@@ -1,16 +1,49 @@
-### Hi there 👋
+---
 
-<!--
-**alaukikvarun/alaukikvarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Screenshot 2024-01-27 100439](https://github.com/alaukikvarun/alaukikvarun/assets/35391611/66e49839-a3b4-4f44-817c-3afea97c8ebf)
+
+## 📫 Contact
+
+Feel free to reach out! I'm always open to new opportunities and collaborations.
+
+- 🌐 LinkedIn: https://www.linkedin.com/in/alaukikvarun/
+- 📧 Email: alaukik.varun@gmail.com
+
+👋 Hi! I'm **Alaukik Varun**, Data Analyst with over 2 years of hands-on experience in extracting valuable insights from complex datasets. I specialize in transforming raw data into actionable business recommendations, driving informed decision-making.
+
+## 🔍 About Me
+
+- 💼 **Current Position:** Data Analyst at Teradata
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/alaukikvarun/
+- 📧 **Email:** alaukik.varun@gmail.com
+- 📅 **Experience:** 2+ years in the field
+- 🎓 **Education:** Computer Science Engineering, Bachelor of Technology(B.Tech)
+
+## 🚀 Skills
+
+- **Data Analysis:** Proficient in exploratory data analysis (EDA) and statistical modeling.
+- **Programming Languages:** Expertise in Python and SQL.
+- **Data Visualization:** Experience with tools such as Matplotlib, Seaborn, and Tableau.
+- **Database Management:** Skilled in working with SQL databases.
+- **Machine Learning:** Familiar with machine learning concepts and applications.
+- **Tools:** Excel, Jupyter Notebooks, Git, etc.
+
+## 📊 Projects
+
+### [Project Name 1]
+
+- Description: Brief description of the project.
+- Tools Used: List of tools and technologies used.
+- Link: [Link to the GitHub repository or deployed project]
+
+### [Project Name 2]
+
+- Description: Brief description of the project.
+- Tools Used: List of tools and technologies used.
+- Link: [Link to the GitHub repository or deployed project] 
+
+---
+
