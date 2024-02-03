@@ -11,7 +11,7 @@ Feel free to reach out! I'm always open to new opportunities and collaborations.
 - 🌐 LinkedIn: https://www.linkedin.com/in/alaukikvarun/
 - 📧 Email: alaukik.varun@gmail.com
 
-👋 Hi! I'm **Alaukik Varun**, Data Analyst with 2+ years of hands-on experience in extracting valuable insights from complex datasets. I specialize in transforming raw data into actionable business recommendations, driving informed decision-making.
+👋 Hi! I'm **Alaukik Varun**, a **Data Analyst** with 2+ years of hands-on experience in extracting valuable insights from complex datasets. I specialize in transforming raw data into actionable business recommendations, driving informed decision-making.
 
 ## 🔍 About Me
 
