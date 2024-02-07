@@ -33,7 +33,6 @@ Feel free to reach out! I'm always open to new opportunities and collaborations.
 ## 📊 Projects
 
 ### 1. Data Cleaning
-
 - Description: This project focuses on data cleaning techniques applied to a dataset containing various types of inconsistencies, missing values, and errors. The goal is to prepare the data for further analysis by ensuring its accuracy, completeness, and consistency.
 
 - Tools Used: Python, Pandas, NumPy, Jupyter Notebook.
@@ -46,6 +45,13 @@ Feel free to reach out! I'm always open to new opportunities and collaborations.
 - Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
 
 - [Link to the GitHub repository](https://github.com/alaukikvarun/Ecommerce-Purchase-Analysis)
+
+### 3. Service Fee Analysis
+- Description: The Service Fee Analysis project focuses on analyzing service fee data collected by a business to gain insights into revenue trends, customer behavior, and business performance. The project involves cleaning, exploring, and visualizing the data to identify revenue patterns, customer segments, and opportunities for optimization.
+
+- Tools Used: Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
+
+- [Link to the GitHub repository](https://github.com/alaukikvarun/Service-Fee-Analysis)
 
 ---
 
