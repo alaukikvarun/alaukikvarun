@@ -53,5 +53,12 @@ Feel free to reach out! I'm always open to new opportunities and collaborations.
 
 - [Link to the GitHub repository](https://github.com/alaukikvarun/Service-Fee-Analysis)
 
+### 4. Salary Analysis
+- Description: The Salary Analysis project involves analyzing salary data to gain insights into various factors affecting compensation. This includes preprocessing, exploring, and visualizing the data to understand salary distributions, trends, and disparities. The project aims to provide valuable insights for organizations in terms of compensation strategies, employee retention, and talent acquisition.
+
+- Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
+
+- [Link to the GitHub repository](https://github.com/alaukikvarun/Salary-Analysis)
+
 ---
 
