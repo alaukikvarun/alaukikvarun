@@ -18,7 +18,7 @@ Feel free to reach out! I'm always open to new opportunities and collaborations.
 - 💼 **Current Position:** Data Scientist at Teradata
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/alaukikvarun/
 - 📧 **Email:** alaukik.varun@gmail.com
-- 📅 **Experience:** 2+ years in the field
+- 📅 **Experience:** 4 years in the field
 - 🎓 **Education:** Computer Science Engineering, Bachelor of Technology(B.Tech)
 
 ## 🚀 Skills
